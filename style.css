@@ -102,12 +102,16 @@ a {
 .home-wrapper .card-two ul {
   list-style: none;
 }
-.home-wrapper .card-two .social-row .fa {
+.home-wrapper .card-two .social-row .fas,
+.home-wrapper .card-two .social-row .fab,
+.home-wrapper .card-two .social-row .far {
   padding-left: 10px;
   padding-right: 10px;
   color: #5bc0de;
 }
-.home-wrapper .card-two .social-row .fa:hover {
+.home-wrapper .card-two .social-row .fas:hover,
+.home-wrapper .card-two .social-row .fab:hover,
+.home-wrapper .card-two .social-row .far:hover {
   color: #34495e;
 }
 .home-wrapper .card-two .social-row {
@@ -137,7 +141,9 @@ a {
 .home-wrapper .card:last-of-type {
   margin-bottom: 0px;
 }
-.home-wrapper .card .fa {
+.home-wrapper .card .fas,
+.home-wrapper .card .fab,
+.home-wrapper .card .far {
   color: #34495e;
 }
 .home-wrapper .card h1 {
