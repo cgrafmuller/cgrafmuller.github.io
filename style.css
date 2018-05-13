@@ -53,6 +53,12 @@ body {
 .inline-block {
   display: inline-block;
 }
+a {
+  color: #34495e;
+  cursor: pointer;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
 .home-wrapper .left {
   width: 50vw;
   float: left;
