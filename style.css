@@ -36,6 +36,12 @@ body {
   background-image: linear-gradient(left, #FFD7FB, #BCF9E6);
 }
 
+.list-wrapper {
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
 .pullquote,
 .pullquote:before,
 .pullquote:after {
