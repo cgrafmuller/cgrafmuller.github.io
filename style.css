@@ -113,11 +113,7 @@ body {
     top: -0.5rem;
 }
 
-p, h1 {
-  margin: 0.5em 0;
-}
-
-cite {
+.founder-text {
   font-style: normal;
   text-transform: uppercase;
   color: #fff;
@@ -125,8 +121,12 @@ cite {
   letter-spacing: 0.125em;
 }
 
+p, h1 {
+  margin: 0.5em 0;
+}
+
 @media only screen and (max-width: 767px) {
-  cite {
+  .founder-text {
     font-size: 1.3rem;
   }
 }
