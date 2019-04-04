@@ -90,7 +90,7 @@ body {
     margin-top: 25px;
   }
 
-  .pullquote-small:last-of-type {
+  .listwrapper .pullquote-small:last-of-type {
     margin-bottom: 25px;
   }
 }
